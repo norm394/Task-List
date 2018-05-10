@@ -96,10 +96,3 @@ Route::delete('/task/{id}', function ($id) {
     return redirect('/');
 });
 
-/*************************************************************************
- * Update An Existing Task
- ************************************************************************/
-Route::patch('/task/{id}', function ($id) {
-    Task::findOrFail($id)->delete();
-    return redirect('/');
-});
