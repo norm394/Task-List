@@ -1,3 +1,9 @@
+## Simple Task List using Laravel
+
+This was a simple implementation of a task list using the Laravel framework. The goal was to allow users to add, edit, and delete tasks. This project was an expansion using <a href="https://laravel.com/docs/5.1/quickstart">https://laravel.com/docs/5.1/quickstart</a> as a base jumping off point to learn the basics of Laravel for the first time as well as trying to use best practices given by the Laravel docs.
+
+<hr>
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
